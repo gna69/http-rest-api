@@ -1,0 +1,4 @@
+bind_addr = ":8080"
+log_level = "debug"
+database_url = "user=postgres password=postgres host=localhost dbname=restapi_db sslmode=disable"
+session_key = "sessionStoresessions.Store"
